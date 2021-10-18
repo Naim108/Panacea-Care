@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiology",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.  A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "img": "/images/cardiology.png"
+    },
+    {
+        "id": 2,
+        "name": "Neurology Surgery",
+        "description": "It’s the medical specialty concerned with the prevention, diagnosis, surgical treatment.",
+        "img": "/images/brain.png"
+    },
+    {
+        "id": 3,
+        "name": "Nephron Kidney",
+        "description": "The kidneys are two bean-shaped organs, each about the size of a fist. They are located just below the rib cage, one on each side of your spine.",
+        "img": "/images/kidney.png"
+    },
+    {
+        "id": 4,
+        "name": "Pelvic Diaphragm",
+        "description": "It’s a muscular partition formed by the levatores that may be included the parietal pelvic fascia.",
+        "img": "/images/pelvis.png"
+    },
+    {
+        "id": 5,
+        "name": "Gastroenterology",
+        "description": "Gastroenterology is the study of the normal function and diseases of the esophagus, stomach, small intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver.",
+        "img": "/images/intestine.png"
+    },
+    {
+        "id": 6,
+        "name": "Orthopedic Surgery",
+        "description": "Orthopedic surgery is performed on the musculoskeletal system in case of injuries, trauma, or various conditions.",
+        "img": "/images/orthopedic.png"
+    }
+]

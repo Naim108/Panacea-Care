@@ -1,0 +1,19 @@
+.service{
+    background-color: rgb(237, 243, 243);
+    border-radius: 20px;
+}
+.image{
+    width: 250px;
+    height: 250px;
+    
+}
+.service-name{
+    font-weight: bold;
+    color: #1BBDE4;
+}
+.service-btn{
+    background-color: #1BBDE4;
+    border: 1px solid #1BBDE4;
+    padding: 10px;
+    border-radius: 10px;
+}

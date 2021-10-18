@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name":"Dr. Sanzana Sultana",
+        "department": "Cardiologist",
+        "img": "/images/doctor-2.png"
+    },
+    {
+        "id": 2,
+        "name":"Dr. Ana Frank ",
+        "department": "Neurologist",
+        "img": "/images/doctor-1.png"
+    },
+    {
+        "id": 1,
+        "name":"Dr. Tamim ",
+        "department": "Gastroenterologist",
+        "img": "/images/doctor-3.png"
+    }
+
+]
