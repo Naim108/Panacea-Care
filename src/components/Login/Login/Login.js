@@ -5,17 +5,6 @@ import './Login.css';
 
 const Login = () => {
     const { signInUsingGoogle } = useAuth();
-    const location = useLocation();
-    const history = useHistory();
-    const redirect_uri = location.state?.from || '/home';
-
-
-    const handleGoogleLogin = () => {
-        signInUsingGoogle()
-            .then(result => {
-                history.push(redirect_uri);
-            })
-    }
 
     return (
         <div className="login-form">
@@ -32,7 +21,7 @@ const Login = () => {
                 <div>-------or----------</div>
                 <button
                     className="btn details-btn"
-                    onClick={handleGoogleLogin}
+                    onClick={signInUsingGoogle}
                 >Google Sign In</button>
             </div>
         </div>

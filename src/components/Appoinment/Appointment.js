@@ -83,6 +83,7 @@ const Appointment = () => {
             </div>
 
         </div>
+        {/* footer part */}
         <Footer></Footer>
         </div>
     );
