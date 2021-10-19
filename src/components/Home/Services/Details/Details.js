@@ -7,7 +7,7 @@ const Details = () => {
 
     return (
         <div>
-            <h2>this is booking number: {serviceId}</h2>
+            <h2>this is details part.updated soon</h2>
         </div>
     );
 };

@@ -14,6 +14,9 @@ import Login from './components/Login/Login/Login';
 import PrivateRoute from './components/Login/Login/PrivateRoute/PrivateRoute';
 import Found from './components/NotFound/Found';
 import Header from './components/Shared/Header/Header';
+import About from './components/About/About';
+import Appointment from './components/Appoinment/Appointment';
+import Signup from './components/Login/Signup/Signup';
 
 function App() {
   return (
@@ -28,9 +31,18 @@ function App() {
           <Route path="/home">
             <Home></Home>
           </Route>
+          <Route path="/about">
+            <About></About>
+          </Route>
           <Route path="/login">
             <Login></Login>
           </Route>
+          <Route path="/signup">
+            <Signup></Signup>
+          </Route>
+          <PrivateRoute path="/appointment">
+            <Appointment></Appointment>
+          </PrivateRoute>
           <PrivateRoute path="/details/:serviceId">
             <Details></Details>
           </PrivateRoute>

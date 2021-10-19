@@ -1,0 +1,15 @@
+.half-width{
+    width: 50%;
+    background-color: rgba(252, 251, 249, 0.945);
+}
+.bg-image{
+    width: 100%;
+    
+    background-image:url('../../images/banner1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-position: center;
+    position: relative;
+   
+}
