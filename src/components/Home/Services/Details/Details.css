@@ -1,0 +1,15 @@
+.price{
+    color: coral;
+    font-weight: bold;
+}
+.banner3{
+    width: 100%;
+    
+    background-image:url('../../../../images//banner3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-position: center;
+    position: relative;
+   
+}
