@@ -1,51 +1,44 @@
 [
     {
-        "id": 1,
-        "name": "Cardiology",
+        
+        "name": "Steaks with Asparagus",
         "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.  A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
-        "img": "/images/cardiology.png",
-        "doctor":"Dr. Sanzana Sultana",
-        "cost": "$ 5000"
+        "img": "https://i.ibb.co/kX6ShQ6/dish-05-1-600x600-removebg-preview.png",
+        "price": 100
     },
     {
-        "id": 2,
-        "name": "Neurology Surgery",
-        "description": "It’s the medical specialty concerned with the prevention, diagnosis, surgical treatment.",
-        "img": "/images/brain.png",
-        "doctor":"Dr. Sanzana Sultana",
-        "cost": "$ 6000"
-
+        
+        "name": "Chicken with Vegetables",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.  A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "img": "https://i.ibb.co/p1Fr3p7/dish-07-1-600x600-removebg-preview-removebg-preview.png",
+        "price": 200
     },
     {
-        "id": 3,
-        "name": "Nephron Kidney",
-        "description": "The kidneys are two bean-shaped organs, each about the size of a fist. They are located just below the rib cage, one on each side of your spine.",
-        "img": "/images/kidney.png",
-        "doctor":"Dr. Sanzana Sultana",
-        "cost": "$ 8000"
+        
+        "name": "Tender rabbit soup",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.  A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "img": "https://i.ibb.co/Hqscgsm/dish-06-1-360x360-removebg-preview.png",
+        "price": 100
     },
     {
-        "id": 4,
-        "name": "Pelvic Diaphragm",
-        "description": "It’s a muscular partition formed by the levatores that may be included the parietal pelvic fascia.",
-        "img": "/images/pelvis.png",
-        "doctor":"Dr. Sanzana Sultana",
-        "cost": "$ 5000"
+        
+        "name": "Red beetroot soup",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.  A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "img": "https://i.ibb.co/Tt46ccf/dish-04-1-360x360-removebg-preview.png",
+        "price": 100
     },
     {
-        "id": 5,
-        "name": "Gastroenterology",
-        "description": "Gastroenterology is the study of the normal function and diseases of the esophagus, stomach, small intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver.",
-        "img": "/images/intestine.png",
-        "doctor":"Dr. Sanzana Sultana",
-        "cost": "$ 9000"
+        
+        "name": "Fresh Strawberry",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.  A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "img": "https://i.ibb.co/QdRyKDZ/03-smoothie-360x482-removebg-preview.png",
+        "price": 100
     },
     {
-        "id": 6,
-        "name": "Orthopedic Surgery",
-        "description": "Orthopedic surgery is performed on the musculoskeletal system in case of injuries, trauma, or various conditions.",
-        "img": "/images/orthopedic.png",
-        "doctor":"Dr. Sanzana Sultana",
-        "cost": "$ 3000"
+        
+        "name": "Salad with Mozarella",
+        "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels.  A person with heart disease or cardiovascular disease may be referred to a cardiologist.",
+        "img": "https://i.ibb.co/VD8vdLP/dish-03-1-600x600-removebg-preview.png",
+        "price": 100
     }
 ]
